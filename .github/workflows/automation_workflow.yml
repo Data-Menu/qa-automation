@@ -24,5 +24,8 @@ jobs:
       - name: Install Puppeteer
         run: npm i puppeteer
 
+      - name: Install Chrome
+        run: npx puppeteer browsers install chrome
+
       - name: Run Automation Script
         run: node run.js

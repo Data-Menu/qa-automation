@@ -30,8 +30,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Run Data Menu QA-Automation
-        uses: path-to-action # Update with the actual path to the action
+      - name: Run QA-Automation
+        uses: node run.js
 
 ```
 

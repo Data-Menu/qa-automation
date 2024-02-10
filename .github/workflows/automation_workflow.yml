@@ -1,9 +1,7 @@
 name: Data Menu QA-Automation
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   qa-automation:

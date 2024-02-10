@@ -1,7 +1,9 @@
 name: Data Menu QA-Automation
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   qa-automation:
@@ -18,6 +20,9 @@ jobs:
 
       - name: Install Dependencies
         run: npm install
+
+      - name: Install Puppeteer
+        run: npm i puppeteer
 
       - name: Run Automation Script
         run: node run.js

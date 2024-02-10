@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  test:
+  qa-automation:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,5 +21,5 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Automate
+      - name: Run Automation Script
         run: node run.js

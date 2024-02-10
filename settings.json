@@ -1,0 +1,37 @@
+{
+    "SITES_TO_CHECK": [
+        "https://www.revenueroll.com",
+        "https://cloverbyclove.com",
+        "https://mykiddiwinks.com",
+        "https://www.drsmood.com",
+        "https://invictusbrandsinc.com",
+        "https://www.investment.com",
+        "https://twillory.com",
+        "https://www.shopmeems.com",
+        "https://vivarays.com",
+        "https://fable.com",
+        "https://eboostpartners.com",
+        "https://aweinspired.com",
+        "https://eskerbeauty.com",
+        "https://www.habitcosmetics.com",
+        "https://friendlyblues.com",
+        "https://www.boomandbucket.com",
+        "https://anglingai.com",
+        "https://ponto.org",
+        "https://www.burkedecor.com",
+        "https://grubblyfarms.com",
+        "https://giddyup.io",
+        "https://www.inspiredhealthllc.com",
+        "https://yummerspets.com",
+        "https://fandiem.com",
+        "https://optishotgolf.com",
+        "https://elementsbrands.com",
+        "https://www.wegeneratesales.com",
+        "https://glamsquad.com",
+        "https://larssonjennings.com"
+    ],
+    "TAGS_TO_FIND": [
+        "enriched_page_view",
+        "rr_bot_validation"
+    ]
+}
